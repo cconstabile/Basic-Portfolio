@@ -1,0 +1,146 @@
+body {
+    background-image: url("../images/confectionary.png");
+    border: #dddddd;
+    width: 650px;
+    float: left;
+}
+
+h1 {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    padding: 10px;
+}
+
+h2 {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color: #4aaaa5;
+}
+
+header {
+    clear: both;
+    background-color: #ffffff;
+    border-bottom: solid #cccccc;
+    width: 960px;
+    align-items: center;
+    justify-content: center;
+}
+
+.sidebar {
+    background-color: white;
+    border: solid #dddddd;
+    width: 270px;
+    padding: 5px;
+    float: right;
+}
+
+.github {
+    height: 50px;
+    width: 50px;
+}
+
+.linkedin {
+    height: 50px;
+    width: 50px;
+}
+
+.stackoverflow {
+    height: 50px;
+    width: 50px;
+}
+
+.myface {
+    width: 35%;
+    height: auto;
+    float: left;
+    padding-right: 10px;
+}
+
+.bio {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    width: 60%;
+    height: auto;
+}
+
+.contactinfo {
+    background-color: white;
+    width: 60%;
+    height: auto;
+}
+
+.submit {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 10px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 12pt;
+}
+
+.hangman {
+    width: 25%;
+    height: auto;
+    padding: 5px;
+    position: relative;
+}
+
+.RPG {
+    width: auto;
+    height: 157px;
+    padding: 5px;
+    position: relative;
+}
+
+.trivia {
+    width: auto;
+    height: 157px;
+    padding: 5px;
+    position: relative;
+}
+
+.widget {
+    width: 157px;
+    height: auto;
+    padding: 5px;
+    position: relative;
+}
+
+.rps {
+    width: 157px;
+    height: auto;
+    padding: 5px;
+    position: relative;
+}
+
+.portlinks {
+    background-color: white;
+    padding: 8px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 12pt;
+    margin: 10px;
+}
+
+.label {
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5;
+    padding: 10px;
+    width:157px;
+
+}
+
+footer {
+    width: 960px;
+    clear: both;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-top: solid #4aaaa5;
+}
